@@ -39,6 +39,6 @@ This Power BI dashboard analyzes Amazon sales performance and provides business 
 Bhumit Kalal
 Aspiring Data Analyst
 
-📧 Email: bhumitkalal@email.com  
+📧 Email: bhumitkalal@gmail.com  
 🔗 LinkedIn: linkedin.com/in/bhumitkalal  
 💻 GitHub: github.com/Bhumitkalal
